@@ -10,3 +10,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [v0.1.0] - 2024-09-14
 - Initial release of Laravel Boost Pack with core Laravel development tools.
+
+## [v0.2.0] - 2024-09-14
+- update extensionPack list.
